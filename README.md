@@ -40,10 +40,6 @@ Replace `<network-name>` with the name of your target Ethereum network (e.g., `r
 
 This command will deploy the DessayToken and Dessay contracts to the specified network and provide the contract addresses upon successful deployment.
 
-## Documentation
-
-For detailed information about the project, including contract explanations and usage examples, refer to the [project's GitHub repository](https://github.com/korayakpinar/dessay).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
